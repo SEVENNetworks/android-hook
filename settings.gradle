@@ -1,0 +1,2 @@
+include ':androidhook'
+rootProject.name='android-hook'
